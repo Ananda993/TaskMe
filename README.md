@@ -128,7 +128,3 @@ Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk detail le
 
 Proyek ini dikembangkan oleh:  
 **mitsuha.dev**
-
----
-
-Silakan salin dan gunakan markdown di atas untuk README.md Anda!
